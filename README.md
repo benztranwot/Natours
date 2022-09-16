@@ -1,8 +1,8 @@
 # Natours
 
-A simple web page on which user can choose their preference theme and save it in localStorage
+A landing page for a fictional travel company Natours. Developed and deployed with enhanced Performance, SEO and Accessibility.
 
-[View Live Site](https://dark-theme-benz.netlify.app/)
+[View Live Site](https://natours-benz.netlify.app/)
 
 ## Preview
 
