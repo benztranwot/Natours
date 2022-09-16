@@ -6,8 +6,8 @@ A simple web page on which user can choose their preference theme and save it in
 
 ## Preview
 
-<img src="./resources/header.png" width="402" />&nbsp;<img src="./resources/card.png" width="402" />
-<img src="./resources/reviews.png" width="402" />&nbsp;<img src="./resources/contact.png" width="402" />
+<img src="./resources/header.png" width="404" />&nbsp;<img src="./resources/card.png" width="404" />
+<img src="./resources/reviews.png" width="404" />&nbsp;<img src="./resources/contact.png" width="404" />
 
 ## Features
 
