@@ -6,8 +6,8 @@ A landing page for a fictional travel company Natours. Developed and deployed wi
 
 ## Preview
 
-<img src="./resources/header.png" width="404" />&nbsp;<img src="./resources/card.png" width="404" />
-<img src="./resources/reviews.png" width="404" />&nbsp;<img src="./resources/contact.png" width="404" />
+<img src="./resources/header.png" width="400" />&nbsp;<img src="./resources/card.png" width="400" />
+<img src="./resources/reviews.png" width="400" />&nbsp;<img src="./resources/contact.png" width="400" />
 
 ## Features
 
